@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alisson Alcântara</h1>
+<h1 align="center">Hello everyone <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" width="30px">, I'm Alisson Alcântara</h1>
 
 - 🔭 I’m currently working at Iteris
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java, C#, .Net, SQL, React, Angular, Docker
